@@ -1,0 +1,9 @@
+SUMBER_FOTO=local
+USERNAME=
+PASSWORD=
+FOTO_TREE=Victoria Run 2023
+HARGA_FOTO=85000
+BANYAK_BROWSER=1
+DESKRIPSI=Untuk pembelian lebih dari 1 bisa langsung DM kami
+
+TESTING=true
